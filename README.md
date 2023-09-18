@@ -1,9 +1,7 @@
-# MAIN
+# Python and Data Science Study Repository
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Python and Data Science Study Repository</title>
-</head>
+
 <body>
 
 <h2>Python and Data Science Study Repository</h2>
